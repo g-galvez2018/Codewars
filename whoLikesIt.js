@@ -1,3 +1,4 @@
+//Kata # 4
 function likes(names) {
   let text = "";
   let others = names.length - 2;
